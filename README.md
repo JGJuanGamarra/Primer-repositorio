@@ -1,2 +1,2 @@
-# Primer-repositorio
-Repositorio de prueba del prepcourse de henry
+JUANI
+proyecto de prueba para clonar un repositorio desde github a mi computadora
